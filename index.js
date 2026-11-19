@@ -1,1 +1,1 @@
-console.log('::notice::v1');
+console.log('::notice::v2');
