@@ -1,0 +1,5 @@
+name: 'Hello World'
+description: 'Logs hello world'
+runs:
+  using: 'node24'
+  main: 'index.js'
